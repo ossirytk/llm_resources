@@ -1,29 +1,49 @@
 # llm_resources
 Information and resources on everything related about running large language models locally and their development
 
-## On Information
+## For Beginners
 [AI for Beginners](https://github.com/microsoft/ai-for-beginners)</BR>
 [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners)</BR>
 [Basic Machine Learning Tutorial](https://github.com/microsoft/ML-For-Beginners)</BR>
+[NLP Course For Beginners](https://huggingface.co/learn/nlp-course/chapter1/1)</BR>
+[Foundational Machine Learning](https://developers.google.com/machine-learning/foundational-courses)</BR>
+
+## On Information
+[Book: The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)</BR>
+[Book: Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)</BR>
+[Finetune Lora on Llama-cpp](https://rentry.org/cpu-lora)</BR>
+[Papers on Local Models](https://rentry.org/localmodelspapers)</BR>
+[Arxiv Papers on Machine Learning](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)</BR>
+[Another Git repo of ml resources](https://github.com/underlines/awesome-ml)</BR>
+
+## On The Tubes
+[AI Explained](https://www.youtube.com/@aiexplained-official/videos)</BR>
+[Dr Alan Thompson](https://www.youtube.com/@DrAlanDThompson/videos)</BR>
+[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/videos)</BR>
+
+## On Reddit
 [Local Llama reddit](https://www.reddit.com/r/LocalLLaMA/)</BR>
 [Text Generation WebUI reddit](https://www.reddit.com/r/Oobabooga/)</BR>
-[Finetune Lora on Llama-cpp](https://rentry.org/cpu-lora)</BR>
 
 ## On models
 [Hugginface](https://huggingface.co/)</BR>
+[TheBloke](https://huggingface.co/models?sort=modified&search=thebloke)</BR>
 [Alpaca model info](https://docs.alpacaml.com/home/welcome)</BR>
 [Open llm leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)</BR>
 [Big Code Models leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)</BR>
 
 ## On Prompts
+[Prompting Guide](https://learnprompting.org/docs/intro)</BR>
+[Another Prompting Guide](https://www.promptingguide.ai/)</BR>
 [Pygmalion cards](https://booru.plus/+pygmalion)</BR>
-[Chub Ai](https://www.chub.ai/)</BR>
-[Character card editor](https://zoltanai.github.io/character-editor/)</BR>
+[Chub AI](https://www.chub.ai/)</BR>
+[Character Card Editor](https://zoltanai.github.io/character-editor/)</BR>
 [Leaked Prompts](https://github.com/linexjlin/GPTs)</BR>
 [More leaked prompts](https://github.com/LouisShark/chatgpt_system_prompt)</BR>
 
 ## On Tools
-[Text Generation Webui](https://github.com/oobabooga/text-generation-webui)</BR>
+[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)</BR>
+[Text Generation WebUI Extensions](https://github.com/oobabooga/text-generation-webui-extensions)</BR>
 [CensorBench](https://codeberg.org/jts2323/censorbench)</BR>
 
 ## On Tool for Developers
