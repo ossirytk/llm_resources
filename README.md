@@ -17,7 +17,7 @@ Information and resources on everything related about running large language mod
 
 ## On Prompts
 [Pygmalion cards](https://booru.plus/+pygmalion)</BR>
-[Chub Ai]([https://booru.plus/+pygmalion](https://www.chub.ai/))</BR>
+[Chub Ai](https://www.chub.ai/)</BR>
 [Character card editor](https://zoltanai.github.io/character-editor/)</BR>
 [Leaked Prompts](https://github.com/linexjlin/GPTs)</BR>
 [More leaked prompts](https://github.com/LouisShark/chatgpt_system_prompt)</BR>
