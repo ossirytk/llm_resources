@@ -12,6 +12,7 @@ Information and resources on everything related about running large language mod
 [Book: The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)</BR>
 [Book: Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)</BR>
 [Finetune Lora on Llama-cpp](https://rentry.org/cpu-lora)</BR>
+[Another Lora finetune instructions](https://rentry.org/59xed3)</BR>
 [Papers on Local Models](https://rentry.org/localmodelspapers)</BR>
 [Arxiv Papers on Machine Learning](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)</BR>
 [Another Git repo of ml resources](https://github.com/underlines/awesome-ml)</BR>
