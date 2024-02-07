@@ -1,2 +1,0 @@
-# llm_resources
-Information and resources on everything related about running large language models locally and their development. Head to the [llm resources](https://ossirytk.github.io/llm_resources/index.html) github.io site for all the info.
